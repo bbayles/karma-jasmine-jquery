@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bessdsv/karma-jasmine-jquery.git"
+    "url": "https://github.com/bbayles/karma-jasmine-jquery.git"
   },
   "keywords": [
     "karma",
@@ -24,11 +24,11 @@
   "author": "Sergey Dolinkov",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/bessdsv/karma-jasmine-jquery/issues"
+    "url": "https://github.com/bbayles/karma-jasmine-jquery/issues"
   },
-  "homepage": "https://github.com/bessdsv/karma-jasmine-jquery",
+  "homepage": "https://github.com/bbayles/karma-jasmine-jquery",
   "dependencies": {
     "bower": "^1.8.8",
-    "bower-installer": "git+https://github.com/bessdsv/bower-installer.git#temp"
+    "bower-installer": "git+https://github.com/bbayles/bower-installer.git#bower_1.8.8"
   }
 }
